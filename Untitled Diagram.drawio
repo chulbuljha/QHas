@@ -55,7 +55,7 @@
         <mxCell id="p6sxfPXKa_m8IWls4KXt-19" value="&lt;b&gt;Step 1&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="80" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="p6sxfPXKa_m8IWls4KXt-21" value="File Moved to Approved Folder" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/filetype-xml-128.png" vertex="1" parent="1">
+        <mxCell id="p6sxfPXKa_m8IWls4KXt-21" value="File in Approved Folder" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-3/16/filetype-xml-128.png" vertex="1" parent="1">
           <mxGeometry x="60" y="640" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="p6sxfPXKa_m8IWls4KXt-22" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;verticalAlign=top;fillColor=#505050;strokeColor=none;sketch=0;pointerEvents=1;shadow=0;dashed=0;" vertex="1" parent="1">
